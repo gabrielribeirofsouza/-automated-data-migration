@@ -31,7 +31,6 @@ migrador_de_planilhas/
 │   └── dados.xlsx        # Exemplo de arquivo Excel
 │
 ├── main.py               # Script principal
-└── README.md             # Documentação do projeto     # Documentação do projeto <br> ```
 ```
 ---
 ### Como Executar o Projeto 
