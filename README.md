@@ -32,7 +32,7 @@ migrador_de_planilhas/
 │
 ├── main.py               # Script principal
 ```
----
+
 ### Como Executar o Projeto 
 ---
 * Criar o ambiente virtual 
