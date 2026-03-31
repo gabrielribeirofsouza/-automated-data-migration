@@ -1,0 +1,43 @@
+Linha 0: Invalid value '150.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 1: Invalid value '299.99' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 2: Invalid value '899.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 3: Invalid value '120.0' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 4: Invalid value '1299.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 5: Invalid value '249.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 6: Invalid value '39.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 7: Invalid value '7999.0' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 8: Invalid value '499.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 9: Invalid value '2499.99' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 10: Invalid value '399.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 11: Invalid value '459.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 12: Invalid value '389.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 13: Invalid value '1299.0' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 14: Invalid value '149.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 15: Invalid value '349.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 16: Invalid value '199.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 17: Invalid value '599.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 18: Invalid value '29.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 19: Invalid value '39.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 20: Invalid value '159.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 21: Invalid value '899.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 22: Invalid value '799.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 23: Invalid value '299.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 24: Invalid value '499.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 25: Invalid value '199.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 26: Invalid value '249.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 27: Invalid value '1299.0' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 28: Invalid value '3499.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 29: Invalid value '59.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 30: Invalid value '79.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 31: Invalid value '129.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 32: Invalid value '89.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 33: Invalid value '149.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 34: Invalid value '199.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 35: Invalid value '5' for dtype 'str'. Value should be a string or missing value, got 'int' instead.
+Linha 36: could not convert string to float: 'abc'
+Linha 37: Nome vazio
+Linha 38: Invalid value '-499.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 39: Invalid value '59.9' for dtype 'str'. Value should be a string or missing value, got 'float' instead.
+Linha 40: Invalid value '15' for dtype 'str'. Value should be a string or missing value, got 'int' instead.
+Linha 41: cannot convert float NaN to integer
+Linha 42: invalid literal for int() with base 10: 'abc'
