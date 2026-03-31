@@ -3,6 +3,7 @@ Migrador de Planilhas (CSV / Excel) <br>
 Projeto em Python para leitura, validação e migração de dados a partir de planilhas nos formatos CSV e XLSX, com foco em organização de dados e tratamento de erros comuns de entrada
 Este projeto foi criado para praticar e demonstrar:
 <br>
+<br>
 Manipulação de arquivos CSV e Excel <br>
 Uso da biblioteca Pandas para leitura e estruturação de dados <br>
 Validação de formato de arquivos de entrada <br>
