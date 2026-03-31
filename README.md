@@ -39,7 +39,7 @@ migrador_de_planilhas/
 * python -m venv venv <br>
 * Ativar o ambiente virtual (Windows) 
 * venv\Scripts\activate <br>
- *Após ativar, o terminal exibirá (venv) no início da linha. 
+* Após ativar, o terminal exibirá (venv) no início da linha. 
 * Instalar as dependências 
 * pip install pandas openpyxl 
 * Executar o script 
@@ -47,9 +47,11 @@ migrador_de_planilhas/
 ---
 
 ### Insigths
-  Diferença entre erros de lógica e erros de parsing <br>
-  Ao tentar a migração, como arquivos do excel vem padrão PT-BR, e números decimais são separados por vírgulas no Brasil acontece um conflito com a biblioteca PANDAS, onde uma virgula é considerado um separdor de colunas para o panda. <br>
-Consegui contornar o erro fazendo com que a biblioteca ignore linhas mal formatadas <br>
-  * Importância da validação de dados de entrada 
-  * Uso do Pandas como ferramenta padrão para manipulação de dados 
-  * Estruturação de scripts de automação em Python 
+ * Diferença entre erros de lógica e erros de parsing
+Durante a migração, percebi que arquivos excel vem no padrão PT-BR, com números decimais separados por vírgula, podem causar conflitos no Pandas, já que a vírgula também é usada como separador de colunas em CSV. Para contornar isso, optei por tratar e ignorar linhas mal formatadas, evitando que o processo fosse interrompido. <br>
+* Importância da validação de dados de entrada
+* Validar os arquivos antes da migração reduz falhas e aumenta a confiabilidade do processo.
+* Uso do Pandas como ferramenta padrão para manipulação de dados
+* O projeto reforçou o Pandas como uma solução robusta para leitura e tratamento de dados.
+* Estruturação de scripts de automação em Python
+* Organização do código em etapas claras facilita manutenção e evolução do script.
