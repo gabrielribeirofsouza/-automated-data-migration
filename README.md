@@ -40,10 +40,9 @@ migrador_de_planilhas/
 * Ativar o ambiente virtual (Windows) 
 * venv\Scripts\activate <br>
 * Após ativar, o terminal exibirá (venv) no início da linha. 
-* Instalar as dependências 
-* pip install pandas openpyxl 
-* Executar o script 
-* python main.py 
+* Instalar as dependências -> pip install pandas openpyxl 
+* Executar o script -> * python main.py 
+
 ---
 
 ### Insigths
