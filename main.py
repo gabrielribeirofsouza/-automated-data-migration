@@ -26,7 +26,9 @@ if CSV_PATH.lower().endswith(".csv"): # VALIDA SE O FINAL DO CAMINHO
     )
 
 elif CSV_PATH.lower().endswith(".xlsx"):
-    df = pd.read_excel(CSV_PATH)
+    df = pd.read_excel(CSV_PATH,
+    engine="openpyxl"
+)
 
 else:
     raise ValueError("Formato de arquivo não suportado. Use CSV ou XLSX.")
@@ -78,7 +80,7 @@ df_limpo.to_sql(
 
 
 print("Migração concluída!")
-print(f"Total de registros no CSV: {len(df)}")
+print(f"Total de registros no arquivo: {len(df)}")
 print(f"Registros válidos: {len(df_limpo)}")
 print(f"Registros inválidos: {len(linhas_invalidas)}")
 print(f"Banco criado em: {DB_PATH}")
